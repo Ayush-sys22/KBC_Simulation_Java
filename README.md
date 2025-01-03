@@ -1,18 +1,18 @@
 # Kaun Banega Crorepati (KBC) Quiz Game
 A Java-based interactive quiz game inspired by the popular TV show "Kaun Banega Crorepati."
 
-Project Description
+# Project Description 
 The KBC Quiz Game is a Java application designed to simulate the engaging and thrilling experience of the iconic quiz show "Kaun Banega Crorepati." The project serves as an interactive platform for users to test their knowledge across various topics while enjoying a competitive game format. This application is built using core Java concepts and employs a modular architecture to ensure scalability, maintainability, and ease of use.
 
-Features Overview
+# Features Overview
 Dynamic Question Bank: A repository of questions that are randomly selected for gameplay, ensuring variety and replayability.
 Lifelines: Interactive features like 50-50, Flip the Question, Audience Poll (70% accuracy), and Expert Advice (60% accuracy) to aid players during gameplay.
 Game Modes:
-Primary gameplay following the traditional KBC format.
+# Primary gameplay following the traditional KBC format.
 Practice Zone for skill enhancement without time constraints or scoring pressures.
 Customizable gameplay allowing users to tailor the experience to their preferences.
 Performance Analysis: Feedback and detailed statistics to track user performance, including accuracy, time management, and more.
-Timing and Level Mechanics:
+# Timing and Level Mechanics:
 "Fastest Finger First" round with a 20-second timer.
 Timed gameplay for the first two question levels, with no time limits for higher-stakes questions.
 Rules and Guidance: An in-game section explaining rules, lifeline functionalities, and overall gameplay mechanics.
@@ -21,24 +21,10 @@ Programming Language: Java (JDK 17 or higher)
 Development Environment: IntelliJ IDEA, Eclipse, or NetBeans
 Database Management: SQLite or text-based storage for questions and user progress.
 Interface Design: Text-based user interaction leveraging core Java console operations.
-How to Run the Project
+# How to Run the Project
 Prerequisites:
-
 Java Development Kit (JDK 17 or higher) installed.
 An IDE or text editor for Java development.
-Steps to Execute:
 
-Clone the repository to your local system.
-Open the project in your preferred IDE.
-Compile and run the Main class to start the application.
-Customization:
-
-Modify the question bank file or database to include custom questions.
-Adjust settings in the configuration file to customize game difficulty and other parameters.
-Future Enhancements
-Multiplayer Mode: Adding support for multiple users to play simultaneously.
-Mobile Compatibility: Developing an Android version of the application.
-Localization: Supporting multiple languages to reach a wider audience.
-Advanced Analytics: Integrating user behavior and performance analytics for deeper insights.
-Contributors
+# Contributors
 This project was developed by Ayush Kalyan Meher , Shraddha Suman and Smruti Samal , a group of enthusiastic developers aiming to create an engaging and educational gaming experience.
