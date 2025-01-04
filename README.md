@@ -27,4 +27,4 @@ Java Development Kit (JDK 17 or higher) installed.
 An IDE or text editor for Java development.
 
 # Contributors
-This project was developed by Ayush Kalyan Meher , Shraddha Suman and Smruti Samal , a group of enthusiastic developers aiming to create an engaging and educational gaming experience.
+This project was developed by Ayush Kalyan Meher (BTech CSE), Shraddha Suman (BTech CSE) and Smruti Samal (BTech CSE), a group of enthusiastic developers aiming to create an engaging and educational gaming experience.
